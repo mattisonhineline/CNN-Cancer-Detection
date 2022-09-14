@@ -4,6 +4,7 @@ Cancer Image Detection Mini Project
 Project completed for DTSA 5511 
 
 Kaggle Competition Link: https://www.kaggle.com/competitions/histopathologic-cancer-detection
+
 Kaggle Dataset Link: https://www.kaggle.com/competitions/histopathologic-cancer-detection/data
 
 View notebook on Kaggle: https://www.kaggle.com/code/mattison/cancer-cnn-detection
